@@ -1,0 +1,4 @@
+clave_cliente = ck_32352779c93f2030b095f6a22f82666d717762ad
+clave_secreta_cliente = cs_0674d31cdc67f146492fd836ab5f8c30cbe42fb6
+
+web = electricosaval.com

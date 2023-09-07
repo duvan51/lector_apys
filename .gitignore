@@ -1,0 +1,11 @@
+##ignorar archivos nodejs 
+##backend
+./backend/node_modules
+/backend/node_modules
+backend/node_modules
+
+##foront 
+
+./web/node_modules
+/web/node_modules
+web/node_modules
