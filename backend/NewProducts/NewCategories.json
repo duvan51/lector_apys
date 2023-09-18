@@ -1,0 +1,85 @@
+[
+        {
+     
+           "name":"Internet",
+           "parent":"135"
+        },
+        {
+       
+           "name":"Convertidores",
+           "parent":"135"
+        },
+        {
+       
+           "name":"Tv y Video",
+           "parent":"135"
+        },
+        {
+           "name":"Cabinas Pasivas",
+           "parent":"137"
+        },
+        {
+      
+           "name":"Cabinas Activas",
+           "parent":"137"
+        },
+        {
+         
+           "name":"Microfonos",
+           "parent":"137"
+        },
+        {
+           
+           "name":"Amplificadores",
+           "parent":"137"
+        },
+        {
+          
+           "name":"Consolas / Interfases",
+           "parent":"137"
+        },
+        {
+         
+           "name":"Equipos Dj",
+           "parent":"137"
+        },
+        {
+         
+           "name":"Sistemas Hibridos",
+           "parent":"129"
+        },
+        {
+           "name":"Medicion Electrica",
+           "parent":"138"
+        },
+        {
+           
+           "name":"Medicion meteorologica",
+           "parent":"138"
+        },
+        {
+        
+           "name":"Termografia Industrial",
+           "parent":"138"
+        },
+        {
+          
+           "name":"Medicion e infraestructura industrial",
+           "parent":"138"
+        },
+        {
+          
+           "name":"Bombillos Inteligentes",
+           "parent":"139"
+        },
+        {
+          
+           "name":"Switches Inteligentes",
+           "parent":"139"
+        },
+        {
+          
+           "name":"Iluminacion Escenarios",
+           "parent":"92"
+        }
+ ]

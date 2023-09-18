@@ -1,31 +1,324 @@
 [
     {
-    "name": "Premium Quality",
-    "type": "simple",
-    "regular_price": 21.99,
-    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-    "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-    "sku":"TIprueb2"
-    },
-     
-    {
-        "name": "Premium Quality",
-        "type": "simple",
-        "regular_price": "21.99",
-        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-        "sku":"TIprueb1"
+      "name": "REGULADOR SOLAR 30 AMPERIOS ECO",
+      "stock_quantity": 50,
+      "price": 60000,
+      "sku": "SCE30E",
+      "description": "REGULADOR DE CARGA SOLAR 12/24V 30 AMPERIOS\n\nMarca : SOLAR CHARGE CONTROLLER\n\nPASOS PARA INSTALAR EL REGULADOR\n\n1) CONECTAR LA BATERIA\n2) CONECTAR EL PANEL\n3) CONECTAR EL DISPOSITIVO QUE DESEAS ALIMENTAR\n\n\n\n* Tipo de regulador: Solar\n* Voltaje mínimo de entrada - Voltaje máximo de entrada: 12V - 24V\n* Voltaje mínimo de salida - Voltaje máximo de \n salida: 12V - 24V\n* Corriente máxima de salida: 30 A\n* Con voltaje de salida regulable: No"
     },
     {
-        "name": "Premium Quality",
-        "type": "simple",
-        "regular_price": "21.99",
-        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
-        "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-        "sku":"BO7WSC"
+      "name": "ANTENA DIGITAL PLANA TDT INTERIOR",
+      "stock_quantity": 47,
+      "price": 14000,
+      "sku": "ANT9024",
+      "description": "ANTENA DIFITAL PLANA TDT PARA USO INTERIOR\n\nANT9024\nANTENA DIGITAL PLANA MINIMALISTA PARA USO DE INTERIOR\n¿QUE HACE EL PRODUCTO Y COMO LO HACE?\nRecibe la señal satelital de canales nacionales, y los transmite al televisor, o a un TDT. cuenta con un diseño minimalista y tecnología de punta con microcomponentes que reciben la señal y la convierten en canales de alta calidad.\n\nNuestro producto es de marca steren, siendo uno de los productos mas usados en mexico y latinoamerica, asi trayendo la solucion ante espacios reducidos ya que el espacio utilizado es reducido a comparacion de otras antenas.\n\n¿ CÓMO USAR TU PRODUCTO ?\nSu fácil instalación y su diseño minimalista nos ayuda a simplemente a conectarlo con una salida coaxial, la cual se introduce dentro del tv o del tdt, y listo, la antena se puede pegar en la pared ya que sus dimensiones y aspecto es pensado para ello.\n\n¿DESCRIPCIÓN FÍSICA DEL PRODUCTO ?\n\nMedidas : 10 cm de largo\n: 2cm de alto\n: 5 cm de ancho\npeso : 0.1 kg\ncable: 120 cm aprox\ncolor : negro\n\n\n\nPROBLEMAS QUE SOLUCIONA\nevita utilizar las antenas antiguas que solo estorban en tamaño\nrecepciona canales nacionales, en buena definicion,\nel tamaño ya no es un problema.\n\nBENEFICIOS\n\nfacilidad de instalación\nya no tendrás que utilizar antenas de gran tamaño\nsu aspecto de diseño da una increíble sensación al usuario\nsu alcance se asemeja al de una antena con gran capacidad\n\nEl producto es indispensable para tu televisor, siendo uno de los más estables, con una marca reconocida a nivel nacional y latinoamericano posicionándose en el número 1 en antenas minimalistas para uso de interiores. La marca Steren es una de las marcas número 1 en México, en productos tecnológicos y de domótica como empresa industrial propia del país."
+    },
+    {
+      "name": "INVERSOR 400W 12V",
+      "stock_quantity": 38,
+      "price": 180000,
+      "sku": "INV400P",
+      "description": "INVERSORES DE VOLTAJE DC/AC ONDA MODIFICADA\n\nCARACTERÍSTICAS\n\nArranque suave: Encendido suave de los equipos conectados al inversor.\nCircuito de protección universal: Sobretensión, sobretemperatura, cortocircuito, protección de sobrecarga, protección de polaridad inversa en la batería, protección de bajo voltaje.\nAlta eficiencia.\nTecnología de baja interferencia\nSalida USB: 5VDC – 2,1A (nota: como función de cargador solamente)\nLa potencia pico es el doble de la potencia nominal.\nForma de onda de salida: Onda sinusoidal modificada."
+    },
+    {
+      "name": "INVERSOR 400W 12V STEREN",
+      "stock_quantity": 7,
+      "price": 180000,
+      "sku": "INV400S",
+      "description": "* Cables de conexión con caimanes para la batería \n\nDESCRIPCION TECNICA\n \n* Protección por sobrecarga (>400W)\n* Protección por calentamiento\n* Alerta por bajo voltaje\n* Eficiencia de 85 %\n* Cargador USB\n* Temperatura de operación de -15 °C a 50 °C\n* Alimentación: 12 - 14 V---\n* Salida: 110 V~ 60 ± 3 Hz (onda sinusoidal modificada)\n* Potencia: 400 W\n* Salida USB: 5 V--- 2,1 A\n\nDescripcion\n\nInversor de corriente (convertidor de Vcc a Vca) de 400 W que te permite conectar en tu automóvil, bateria, sistema de energia renovable,  equipos que usas en casa u oficina como grabadoras, televisiones pequeñas, videojuegos, DVDs y muchos más, la alimentación es de 12 Vcc y tiene 2 contactos de salida (uno sencillo y otro polarizado) que proporcionan 110 Vca.Se conecta a la batería del automóvil por medio de los cables que se incluyen. Tiene interruptor con luz indicadora de encendido-apagado, zumbador, circuito de autoprotección con indicador luminoso de sobrecarga y botón para restablecer el equipo. Incluye puerto USB para la carga de batería de equipos móviles."
+    },
+    {
+      "name": "PROTECTOR DE NEVERA DIGITAL 110V 10A 3T",
+      "stock_quantity": 112,
+      "price": 73000,
+      "sku": "MATIC2",
+      "description": ""
+    },
+    {
+      "name": "PROTECTOR PARA TELEVISORES 110V 10A 50/60HZ",
+      "stock_quantity": 27,
+      "price": 77000,
+      "sku": "MATIC3",
+      "description": "PROTECTOR DE VOLTAJE PARA TELEVISORES. ADEMAS CONECTE SU DECODIFICADOR\n\n-------------------------------------------------------------\nEl BREAKERMATIC TELEVISORES ha sido diseñado para prevenir los daños que un apagón o un voltaje alto/bajo pueda causarle a su televisor, ya que viene con un supresor de picos transitorios requerido para la protección de equipos electrónicos. El mismo se conecta directamente a la toma.\n-------------------------------------------------------------\n\nIdeal para:\n\n– Televisores y Monitores: LED, LCD, PLASMA, HDTV.\n– Decodificadores de Satélite o Cable\nPosee dos apliques, permitiendo conectar dos equipos simultáneamente siempre que la suma de las corrientes o potencias no supere los 10A o 1000 W.\nEl mismo se conecta directamente al toma corriente.\n¡Fácil de instalar y protección garantizada las 24 horas del día!\n\nDESCRIPCION TECNICA\n\nVoltaje de entrada: 120\nVoltaje de salida: 120V\nVoltaje de entrada CA: 120V\nVoltaje de salida CA: 120V\nDenominación de voltaje: Monovolt\nRango de voltaje de entrada: 93-138\nRango de voltaje de entrada CA: 93-138"
+    },
+    {
+      "name": "PROTECTOR PARA LAVADORAS 110V 10A 50/60HZ",
+      "stock_quantity": 22,
+      "price": 76000,
+      "sku": "MATIC4",
+      "description": "CARACTERISTICAS DEL PRODUCTO\n\nCon este producto de BREAKERMATIC mantendrás tus equipos electrónicos a salvo cuando ocurran variaciones en la línea eléctrica. Gracias a este aparato, la protección contra daños o pérdida de información estará garantizada.\n\nCon este producto de BREAKERMATIC podrás mantener tus equipos electrónicos a salvo. Su función principal consiste en corregir las variaciones de voltaje existentes en la línea eléctrica. Gracias a este aparato, la protección contra daños o pérdida de información estará garantizada.\n\nCaracterísticas generales\n\nMarca: BREAKERMATIC\nLínea: Lavadoras\nModelo: matic4\nColor: Crema\n\nEspecificaciones\n* Tipos de producto: Estabilizador\n\nPotencia\n* Potencia pico: 1875VA\n\nVoltaje\n* Voltaje de entrada: 110V\n* Voltaje de salida: 110V\n* Voltaje de entrada CA: 110\n* Voltaje de salida CA: 115\n* Denominación de voltaje: Monovolt\n* Rango de voltaje de entrada: 95 a 138 vac\n* Rango de voltaje de entrada CA: 95/138vac"
+    },
+    {
+      "name": "BATERIA SECA 12VDC - 9AMP",
+      "stock_quantity": 53,
+      "price": 92000,
+      "sku": "SB129",
+      "description": "Batería Sellada FuliBattery 12V-9AH Ref. FL1290GS\n\nBatería Fuli Battery Nicomar 12V 9ah.\nSERIE GS (Serie General).\ndiseñada con AGM (Absorbente Glass Mat).\nDimensiones 12v 9ah: 151 x 65 x 101 mm Peso: 2.7 Kg\nSistema de alarma y seguridad.\nSistema de televisión por cable.\nHerramientas eléctricas y equipos eléctricos.\nIluminación de emergencia.\nEquipos médicos.\nSistema de UPS.\nEquipos de comunicación.\nJuguetes."
+    },
+    {
+      "name": "BASE MICROFONO MESA NEGRO",
+      "stock_quantity": 11,
+      "price": 37485,
+      "sku": "ST102",
+      "description": ""
+    },
+    {
+      "name": "ESPUMA PARA MICROFONO COLORES",
+      "stock_quantity": 55,
+      "price": 2500,
+      "sku": "EM490",
+      "description": "espuma para microfonos"
+    },
+    {
+      "name": "FLETES",
+      "stock_quantity": 1000,
+      "price": 30000,
+      "sku": "FLETES",
+      "description": ""
+    },
+    {
+      "name": "MEGAFONO 6\" USB SD BATERIA RECARGABLE",
+      "stock_quantity": 2,
+      "price": 106000,
+      "sku": "MG006",
+      "description": "MEGAFONO RECARGABLE 25W / 6 PULGADAS\n\nMarca: PROPHONIC\nModelo: XB-73BTG\n\nESPECIFICACIONES\n• Potencia de Salida: 25W\n• Sirena, USB, SD, Grabación y reproducción 120 segundos\n• Sirena, acompañamiento musical.\n• Microfono incorporado\n• Alimentado por bateria de litio recargable\n• Funcion: USB/BT\n• El tiempo de operación en el modo activo es de aproximadamente 3 horas a full volumen.\n• Tamaño: diámetro del círculo = 150mm. Longitud 240mm\n• peso: 0.60 Kg\n• Incluye Cargador"
+    },
+    {
+      "name": "MEGAFONO 50W CON USB BATERIA Y CABLES BATERIA ROXT",
+      "stock_quantity": 16,
+      "price": "290000",
+      "sku": "MP033",
+      "description": "MEGAFONO 50W PROPHONIC\n•50W\n•Microfono, sirena, música\n•Entrada USB para decodificar MP3\n•Bluetooth\n•Grabación de 200 segundos\n•Dimensiones: °230mm x L350mm\n•Batería recargable de litio\n\nMarca: PROPHONIC\nModelo: ER- 66 BTG\n\nOtras características\n\nTipo de megafono: De mano\nPotencia: 50 W\nAlcance: 100 m\nTipo de batería: Batería recargable\nIncluye micrófono removible: No"
+    },
+    {
+      "name": "MEGAFONO 25W BATERIA RECARGABLE 8XD/USB",
+      "stock_quantity": 0,
+      "price": 108000,
+      "sku": "MP509U",
+      "description": ""
+    },
+    {
+      "name": "MULTITOMA 6 PUESTOS TECHMAN",
+      "stock_quantity": 11,
+      "price": 13500,
+      "sku": "MT615",
+      "description": "DESCRIPCION TECNICA\n\nSalidas: 6 salidas\nTensión: 127V\nFrecuencia: 60 Hz\nCorriente: 15A\nPotencia: 1800W\nCable alimentación: calibre 3X14 AWG\nColor: Beige\nBotón de encendido\nToma: 6 X NEMA 5-15R (Polo a tierra)\nTemperatura de operación: máxima 50°C\nEmpaque individual:\nPeso: 575 gr\nLargo: 27,5 cm\nAlto: 16,5 cm\nAncho: 3,4 cm"
+    },
+    {
+      "name": "PIAÑA PARA MICROFONO",
+      "stock_quantity": 12,
+      "price": 95000,
+      "sku": "TMS165A",
+      "description": "Gracias a su diseño telescópico y giratorio, podrá ajustar este soporte de micrófono de estudio como desee. La abrazadera de liberación rápida cambia la altura del soporte del micrófono boom de 31 pulgadas compacto a 63 pulgadas elevado, y el brazo se puede elevar tan alto (o tan bajo) como desee.\n\nTrípode estable con patas envueltas de plástico\n\nEs más estable y duradero. La base del soporte del micrófono es estable. No es fácil que se caiga al instalar un micrófono.\n\nTubo de acero metálico de alta calidad\n\nEl cuerpo de la tubería de acero metálico de alta calidad se aplica con un proceso de pintura para hornear, que tiene excelentes propiedades mecánicas, previene eficazmente arañazos y buena resistencia al desgaste. La longitud de la barra transversal se puede ajustar libremente aflojando la perilla.\n\n\nEl Clip de Micrófono estándar de clip-onmicclipand se adapta a la mayoría de los micrófonos con cable y micrófonos inalámbricos para hablar, conciertos y actuaciones escénicas. Telescópico y ajustable\n\nSoporte de micrófono de escritorio con Base redonda de Metal\n\nAltura ajustable de 24-32cm\n\nBase redonda de metal de 10,5 cm de diámetro\n\nSoporte de micrófono de escritorio aplicado para reuniones, conferencias, discursos, conferencias, discursos, etc.\n\nEspecificaciones:\n\nAltura: como en la imagen\n\nAplicaciones: reuniones, conferencias, discursos, conciertos\n\nOcasiones: sala de conferencias, iglesia u otros lugares"
+    },
+    {
+      "name": "CARGADOR DE BATERIA 12V - 15AMP PACO",
+      "stock_quantity": 4,
+      "price": 470000,
+      "sku": "MBC1215",
+      "description": ""
+    },
+    {
+      "name": "CARGADOR DE BATERIA 12V 10A MAGON",
+      "stock_quantity": 5,
+      "price": 250000,
+      "sku": "CAR1210M",
+      "description": ""
+    },
+    {
+      "name": "CARGADOR DE BATERIA 12V - 20AMP PACO",
+      "stock_quantity": 7,
+      "price": 597000,
+      "sku": "MBC1220",
+      "description": ""
+    },
+    {
+      "name": "INVERSORES DE ENERGIA SOLAR 1000 ONDA PURA",
+      "stock_quantity": 2,
+      "price": 1005000,
+      "sku": "INV1000MP",
+      "description": ""
+    },
+    {
+      "name": "TRANSFORMADOR INSDUSTRIAL 50VA REGLETA",
+      "stock_quantity": 6,
+      "price": 103000,
+      "sku": "TI50",
+      "description": ""
+    },
+    {
+      "name": "TRANSFORMADOR INDUSTRIAL 100VA",
+      "stock_quantity": 1,
+      "price": 135000,
+      "sku": "TI100",
+      "description": ""
+    },
+    {
+      "name": "TRANSFORMADOR INDUSTRIAL 500VA",
+      "stock_quantity": 10,
+      "price": 230000,
+      "sku": "TI500",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO DE MANO VHF",
+      "stock_quantity": 1,
+      "price": 120000,
+      "sku": "TWM271",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO VHF DE DIAEMA Y SOLAPA TAKST",
+      "stock_quantity": 0,
+      "price": 260000,
+      "sku": "TS331A",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO DOBLE VHF ZANSUI",
+      "stock_quantity": 3,
+      "price": 170000,
+      "sku": "LWM328",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO SENCILLO VHF ZANSUI",
+      "stock_quantity": 7,
+      "price": 105000,
+      "sku": "LWM325",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO DOBLE DE MANO",
+      "stock_quantity": 0,
+      "price": 155000,
+      "sku": "ART722",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INALAMBRICO VHF DE SOLAPA TAKSTAR",
+      "stock_quantity": 8,
+      "price": 235000,
+      "sku": "TS331B",
+      "description": ""
+    },
+    {
+      "name": "MICROFONO INANLAMBRICO DE SOLAPA Y DIADEMA",
+      "stock_quantity": 3,
+      "price": 80000,
+      "sku": "MIC290",
+      "description": ""
+    },
+    {
+      "name": "PROTECTOR ULTRA SOCKET 220V 20A 2HP",
+      "stock_quantity": 25,
+      "price": 127000,
+      "sku": "MATIC6",
+      "description": ""
+    },
+    {
+      "name": "ESTABILIZADOR 1500W MAGOM A 110V",
+      "stock_quantity": 13,
+      "price": 220000,
+      "sku": "EV1500",
+      "description": ""
+    },
+    {
+      "name": "REGULADOR SOLAR 10 AMPERIOS ECO",
+      "stock_quantity": 45,
+      "price": 35000,
+      "sku": "SCE10E",
+      "description": "REGULADOR DE CARGA SOLAR 12/24V 10 AMPERIOS\n\nMarca : SOLAR CHARGE CONTROLLER\n\nPASOS PARA INSTALAR EL REGULADOR\n\n1) CONECTAR LA BATERIA\n2) CONECTAR EL PANEL\n3) CONECTAR EL DISPOSITIVO QUE DESEAS ALIMENTAR\n\n\n\n* Tipo de regulador: Solar\n* Voltaje mínimo de entrada - Voltaje máximo de entrada: 12V - 24V\n* Voltaje mínimo de salida - Voltaje máximo de \n salida: 12V - 24V\n* Corriente máxima de salida: 10 A\n* Con voltaje de salida regulable: No"
+    },
+    {
+      "name": "REGULADOR SOLAR 20 AMPERIOS ECO",
+      "stock_quantity": 29,
+      "price": 45000,
+      "sku": "SCE20E",
+      "description": "REGULADOR DE CARGA SOLAR 12/24V 20 AMPERIOS\n\nMarca : SOLAR CHARGE CONTROLLER\n\nPASOS PARA INSTALAR EL REGULADOR\n\n1) CONECTAR LA BATERIA\n2) CONECTAR EL PANEL\n3) CONECTAR EL DISPOSITIVO QUE DESEAS ALIMENTAR\n\n\n\n* Tipo de regulador: Solar\n* Voltaje mínimo de entrada - Voltaje máximo de entrada: 12V - 24V\n* Voltaje mínimo de salida - Voltaje máximo de \n salida: 12V - 24V\n* Corriente máxima de salida: 20 A\n* Con voltaje de salida regulable: No"
+    },
+    {
+      "name": "REGULADOR SOLAR 60 AMPERIOS ECO",
+      "stock_quantity": 20,
+      "price": 100000,
+      "sku": "SCE60E",
+      "description": "REGULADOR DE CARGA SOLAR 12/24V 60 AMPERIOS\n\nMarca : SOLAR CHARGE CONTROLLER\n\nPASOS PARA INSTALAR EL REGULADOR\n\n1) CONECTAR LA BATERIA\n2) CONECTAR EL PANEL\n3) CONECTAR EL DISPOSITIVO QUE DESEAS ALIMENTAR\n\n\n\n* Tipo de regulador: Solar\n* Voltaje mínimo de entrada - Voltaje máximo de entrada: 12V - 24V\n* Voltaje mínimo de salida - Voltaje máximo de \n salida: 12V - 24V\n* Corriente máxima de salida: 60 A\n* Con voltaje de salida regulable: No"
+    },
+    {
+      "name": "BOMBILLO HALOGENO COLORES 110V-50W",
+      "stock_quantity": 19,
+      "price": 4000,
+      "sku": "BD50110C",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO LED 5W 110V E27 LUZ DIA MULTIUSOS",
+      "stock_quantity": 143,
+      "price": 3500,
+      "sku": "BO5W",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO LED BULBO E27 5W PEQUEÑO",
+      "stock_quantity": 14,
+      "price": 6200,
+      "sku": "BO5WP",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO LED 6W AMARILLO",
+      "stock_quantity": 12,
+      "price": 11500,
+      "sku": "BO6AM",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO LED 7W 110V E27 LUZ DIA PROMO",
+      "stock_quantity": 3,
+      "price": 4500,
+      "sku": "BO7W",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO SYLVANIA 7W 110V-220V SYLVANIA",
+      "stock_quantity": 155,
+      "price": 4500,
+      "sku": "BO7WS",
+      "description": ""
+    },
+    {
+      "name": "BOMBILLO LED 7W E27 SYLVANIA LUZ CALIDA",
+      "stock_quantity": 33,
+      "price": 5500,
+      "sku": "BO7WSC",
+      "description": ""
+    },
+    {
+      "name": "ESTABILIZADOR 3000W MAGOM A 220V CON ELEVADOR",
+      "stock_quantity": 4,
+      "price": 680000,
+      "sku": "EV3220E",
+      "description": ""
+    },
+    {
+      "name": "ESTABILIZADOR 2000W MAGOM A 110V CON ELEVADOR",
+      "stock_quantity": 5,
+      "price": 560000,
+      "sku": "EV2000E",
+      "description": ""
+    },
+    {
+      "name": "PROTECTOR T PESADO 110V AJUST",
+      "stock_quantity": 43,
+      "price": 147000,
+      "sku": "MATIC5",
+      "description": ""
+    },
+    {
+      "name": "PROTECTOR PARA AIRE ACONDICIONADO 110V 20A TOMA",
+      "stock_quantity": 3,
+      "price": 110000,
+      "sku": "MATIC14",
+      "description": ""
     }
-
-         
-
-
-]
+  ]
